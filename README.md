@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brahim HACHLAf 
+- 👋 Hi, I’m Brahim HACHLAF 
 - 👀 I’m interested in Computational Chemistry and Data Science.
 - 🌱 I’m currently learning the application of Machine Learning in Chemistry (Organic Solar Cells, Organic Corrosion Inhibitors, and Drug discovery).
 - 💞️ I’m looking to collaborate with people in chemsitry and Data Science.
